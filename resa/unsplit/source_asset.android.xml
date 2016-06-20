@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <items>
-    <item sub_path="Assets/MggDesigner/abres/config/uiwords.csv" length="85781" md5_hash="a628c93366c60f6b73d3df0085d2e950" />
-    <item sub_path="Assets/MggDesigner/abres/config/uiwords.csv.meta" length="93" md5_hash="056a8afdc7b5a1c69d92a9a8077e268c" />
-  </items>
-</root>
