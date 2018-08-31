@@ -1,0 +1,13 @@
+{
+"companyName": "DC",
+"productName": "QTDEMO",
+"dataUrl": "aaa.data.unityweb",
+"wasmCodeUrl": "aaa.wasm.code.unityweb",
+"wasmFrameworkUrl": "aaa.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "aaa.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
