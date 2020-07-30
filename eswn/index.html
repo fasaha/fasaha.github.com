@@ -9,17 +9,13 @@
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/bbbb.json", {onProgress: UnityProgress});
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/aaaa.json", {onProgress: UnityProgress});
     </script>
   </head>
   <body>
     <div class="webgl-content">
-      <div id="gameContainer" style="width: 3px; height: 3px"></div>
-      <div class="footer">
-        <div class="webgl-logo"></div>
-        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-        <div class="title">eswn</div>
-      </div>
+      <div id="gameContainer" style="width: 300px; height: 500px"></div>
+     
     </div>
   </body>
 </html>
