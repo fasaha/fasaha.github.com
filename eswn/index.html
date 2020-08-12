@@ -4,18 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | eswn</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/aaaa.json", {onProgress: UnityProgress});
+      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/output.json");
     </script>
   </head>
   <body>
-    <div class="webgl-content">
-      <div id="gameContainer" style="width: 300px; height: 500px"></div>
-     
-    </div>
+    <div id="gameContainer" style="width: 600px; height: 600px; margin: auto"></div>
   </body>
 </html>
