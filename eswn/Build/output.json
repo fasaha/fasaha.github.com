@@ -1,6 +1,7 @@
 {
 "companyName": "baaoo",
 "productName": "eswn",
+"productVersion": "0.1",
 "dataUrl": "output.data.unityweb",
 "wasmCodeUrl": "output.wasm.code.unityweb",
 "wasmFrameworkUrl": "output.wasm.framework.unityweb",
@@ -8,8 +9,11 @@
 "asmMemoryUrl": "output.asm.memory.unityweb",
 "asmFrameworkUrl": "output.asm.framework.unityweb",
 "TOTAL_MEMORY": 83886080,
-"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
-"backgroundColor": "#FFFFFF"
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.14f1"
 }
