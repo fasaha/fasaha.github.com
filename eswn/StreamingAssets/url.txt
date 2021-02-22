@@ -1,0 +1,4 @@
+http://10.23.48.67:8080/open?url=http://baidu.com
+http://10.23.48.67:8080/open?url=http://baidu2.com
+http://10.23.48.67:8080/open?url=http://baidu3.com
+http://10.23.48.67:8080/open?url=http://baidu4.com
