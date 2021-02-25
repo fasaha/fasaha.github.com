@@ -1,4 +1,5 @@
-http://10.23.48.67:8080/open?url=http://baidu.com
-http://10.23.48.67:8080/open?url=http://baidu2.com
-http://10.23.48.67:8080/open?url=http://baidu3.com
-http://10.23.48.67:8080/open?url=http://baidu4.com
+http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company1
+http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company2
+http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company3
+http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company4
+http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company5
