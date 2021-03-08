@@ -3,9 +3,6 @@ http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company/#/panorama_3
 http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company/#/panorama_2
 http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company/#/panorama_1
 http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company/#/panorama
+http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company/#/guanbidaping
+http://128.29.141.51:8080/open?url=https://gee4.cn/ct/company/#/toujiaoshipin
 ------------------------本行开始以下信息都没用------------------------------------------------
-http://10.23.48.67:8080/open?url=https://gee4.cn/ct/company/#/panorama_4
-http://10.23.48.67:8080/open?url=https://gee4.cn/ct/company/#/panorama_3
-http://10.23.48.67:8080/open?url=https://gee4.cn/ct/company/#/panorama_2
-http://10.23.48.67:8080/open?url=https://gee4.cn/ct/company/#/panorama_1
-http://10.23.48.67:8080/open?url=https://gee4.cn/ct/company/#/panorama
